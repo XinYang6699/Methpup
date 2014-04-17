@@ -5,11 +5,6 @@ from collections import Counter  #dictionary about how many repeats for each ele
 import numpy as np   #cumulative sum
 import sys
 
-#data=open('/stats/xin/foxp3_24sep2013_analysis/sam_alignment/P2_F1.extendedFrags.sam')
-#output=open('/stats/xin/foxp3_24sep2013_analysis/sam_modify/P2_F1.extendedFrags.sam','w')
-
-#data=open('/stats/xin/foxp3_24sep2013_analysis/sam_bowtie_local/P5_H9.extendedFrags.noHeader.sam')
-#output=open('/stats/xin/foxp3_24sep2013_analysis/sam_bowtie_local_indel/P5_H9.extendedFrags.noHeader.sam','w')
 
 data=open(sys.argv[1])
 output=open(sys.argv[2],'w')
