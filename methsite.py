@@ -1,10 +1,6 @@
 #!/usr/bin/python
 import sys
 
-#data=open('/stats/xin/foxp3_16oct2013_analysis/sam_bowtie_local_indel/P1_A10.extendedFrags.noHeader.site')
-#output=open('/stats/xin/foxp3_16oct2013_analysis/temp/P1_A10.extendedFrags.noHeader.site','w')
-#index=open('/home/xin/FOXP3/project6/NGS6_CpG_sites.txt')
-#the gene detected in the sam file must contain in CpG_sites.txt
 
 index=open(sys.argv[1])
 data=open(sys.argv[2])
