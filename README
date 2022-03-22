@@ -2,8 +2,13 @@ Methpup (METHylation site Picking Up Pipeline) is a pipeline to pick up methylat
 
 For instructions on using the perl implementation of this software please see README.perl file.
 
-This software is developed by Xin Yang (xin.yang@cimr.cam.ac.uk) in Juvenile Diabetes Research Foundation/Wellcome Trust Diabetes and Inflammation Laboratory (JDRF/WT DIL). A paper describing this software is in preparing for Genome Biolofy software.
+====================
+Authorship
+====================
 
+This software is developed by Xin Yang (xy249@medschl.cam.ac.uk).
+
+DO NOT COPY, DISTRIBUTE OR EDIT WITHOUT EXPRESS PERMISSION OF THE AUTHOR.
 
 ===================== 
 Pre-requirement:
@@ -98,7 +103,7 @@ There are several pair-end raw read files under test directory. The output resul
 ====================
 BUGS
 ====================
-Any bugs in Methpup should be reported to xin.yang@cimr.cam.ac.uk
+Any bugs in Methpup should be reported to xy249@medschl.cam.ac.uk
 
 
 ====================
